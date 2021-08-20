@@ -12,6 +12,8 @@ namespace FA2_522
 
             // Print the value of the variable (userName), which will display the input value
             Console.WriteLine("Username is: " + userName);
+
+            // This is a comment I made for proof of change for the formative
         }
     }
 }
